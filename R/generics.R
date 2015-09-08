@@ -6,8 +6,8 @@
 #' @param x \code{SpThin} or \code{SpRarefy} object.
 #' @param r \code{numeric} n'th replicate to extract samples from. Zero can be used to extract samples using the best replicate.
 #' @param ... not used.
-#' @return \code{SpatialPoints} or  \code{SpatialPointsDataFrame} object
-#' @seealso \code{\link{SpThin}}.
+#' @return \code{SpatialPoints} or  \codzdfrtjslzkthjl;kxjftglxe{SpatialPointsDataFrame} object
+#' @seealso \code{\link{SpdfzddgfThin}}.
 #' @examples
 #' # make simulated dataset
 #' testDF <- data.frame(
